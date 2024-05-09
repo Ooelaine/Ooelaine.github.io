@@ -75,21 +75,40 @@ redirect_from:
 
 
 # Awards
-- Second Prize of the Asian Society of International Law Young Scholar Prize, on the Paper of ‘Locating TWAIL Scholarship in China’, 2023
-  
--	Winner of the Young Scholars Writing Competition jointly organised by the Harvard Journal of International Law and the Yale Journal of International Law, on the paper of ‘China, a Disqualified Influencer of International Legal Order’, 2020
-  
--	O’Melveny & Myers LLP Scholarship Award, Linklaters LLP Scholarship Award, 2016
-  
--	Jiangzhen Entrepreneurial Excellence Scholarship, 2015
-  
+- Second Prize of the Asian Society of International Law Young Scholar Prize, on the Paper of ‘Locating TWAIL Scholarship in China’, 2023  
+-	Winner of the Young Scholars Writing Competition jointly organised by the Harvard Journal of International Law and the Yale Journal of International Law, on the paper of ‘China, a Disqualified Influencer of International Legal Order’, 2020  
+-	O’Melveny & Myers LLP Scholarship Award, Linklaters LLP Scholarship Award, 2016  
+-	Jiangzhen Entrepreneurial Excellence Scholarship, 2015  
 -	National Scholarship Award / Provincial-level Merit Student, 2014-2015
-  
 -	Best Oralist, Best Written Submissions & Second Runner-up Team of 3rd China WTO Moot Court, 2015
-
 -	The First Prize for the 13th Speaking Contest of National English Contest, 2013
 
-                                                                        
+&nbsp; 
+&nbsp; 
+&nbsp;
 
 
+# Teaching
+-	International law theories, public international law, international economic law, investment arbitration, human rights, legal pluralism, law and society
+-	International law in Asia, Asian business law, transnational law, international law and development
+-	Chinese civil law, Chinese property law
+-	Research methodology and legal writing
+
+
+# Thesis supervision
+For PhD application:
+  I often receive emails from students asking if I could supervise and support their PhD work. 
+  For the official rules at my institution, please check it through [the official website](https://grs.um.edu.mo/index.php/prospective-students/doctoral-degrees-programmes/)
+  My tips are as follows: 
+    Plan in advance. Read my research website to see if we are a good match. 
+    Please note that I only take PhDs who will write and defend their thesis in English. 
+    When sending me application emails, please provide me with the following documents : your CV, a 3-page research proposal (including literature review) and your motivation letter.
+For master theses:
+  Please come to my classes and discuss with me in person before sending me emails. 
+  I believe in-person exchanges will be more effective. 
+  Before choosing me as your thesis supervisor, please read my website to see if we are a good match.
+
+# Paintings
+
+to be continued...
 
