@@ -42,16 +42,15 @@ Currently, I hold an assistant professorship at the University of Macao. I am al
 
 [**China’s New Multilateralism for Global Health Governance**](https://www.cambridge.org/core/journals/asian-journal-of-comparative-law/article/chinas-new-global-health-governance/A6172980DD079BF65017145B96D073E9)
 
-[**Locating TWAIL Scholarship in China**]([https://www.cambridge.org/core/journals/asian-journal-of-international-law/article/locating-twail-scholarship-in-china/404669226588E97228C9026414DEDDC4]) 
-- Second Prize of the Asian Society of International Law Young Scholar Prize
+[**Locating TWAIL Scholarship in China**](https://www.cambridge.org/core/journals/asian-journal-of-international-law/article/locating-twail-scholarship-in-china/404669226588E97228C9026414DEDDC4) 
 
-[**The Origins and Operation of the Gap-filling Function of the GPL**]([https://academic.oup.com/jids/article/13/4/560/6656548])
+[**The Origins and Operation of the Gap-filling Function of the GPL**](https://academic.oup.com/jids/article/13/4/560/6656548)
 
-[**A Critical Reflection on the Gap-filling Function of the GPL**]([https://www.elgaronline.com/view/journals/cilj/11/1/article-p96.xml])
+[**A Critical Reflection on the Gap-filling Function of the GPL**](https://www.elgaronline.com/view/journals/cilj/11/1/article-p96.xml)
 
-[**The Dissociation of Chinese International Law Scholars from TWAIL**]([https://twailr.com/twail-review/issue-03-2022/yilin-wang-the-dissociation-of-chinese-international-law-scholars-from-twail/#:~:text=Despite%20historical%20affinity%20and%20instrumental,Chinese%20approach%20to%20international%20law.])
+[**The Dissociation of Chinese International Law Scholars from TWAIL**](https://twailr.com/twail-review/issue-03-2022/yilin-wang-the-dissociation-of-chinese-international-law-scholars-from-twail/#:~:text=Despite%20historical%20affinity%20and%20instrumental,Chinese%20approach%20to%20international%20law.)
 
-[**Review of ‘Jens David Ohlin, Election Interference: International Law and the Future of Democracy'**]([https://academic.oup.com/chinesejil/article/21/2/401/6566257])
+[**Review of ‘Jens David Ohlin, Election Interference: International Law and the Future of Democracy'**](https://academic.oup.com/chinesejil/article/21/2/401/6566257)
 
 [**The Fight between Interpretation and Modification: A Critique of Sanum v Laos**](https://academic.oup.com/icsidreview/article/35/1-2/236/6032230)
 
