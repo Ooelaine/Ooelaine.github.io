@@ -107,20 +107,14 @@ redirect_from:
 - For PhD application:
   I often receive emails from students asking if I could supervise and support their PhD work. 
   For the official rules at my institution, please check it through [the official website](https://grs.um.edu.mo/index.php/prospective-students/doctoral-degrees-programmes/).
-&nbsp;
   - My tips are as follows: 
-  &nbsp;
     * Plan in advance. Read my research website to see if we are a good match. 
-    &nbsp;
     * Please note that I only take PhDs who will write and defend their thesis in English. 
-    &nbsp;
     * When sending me application emails, please provide me with the following documents : your CV, a 3-page research proposal (including literature review) and your motivation letter.
 &nbsp;
 - For master theses:
   Please come to my classes and discuss with me in person before sending me emails. 
-  &nbsp;
   I believe in-person exchanges will be more effective. 
-  &nbsp;
   Before choosing me as your thesis supervisor, please read my website to see if we are a good match.
 
 &nbsp; 
