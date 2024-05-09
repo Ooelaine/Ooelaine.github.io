@@ -24,7 +24,6 @@ author:
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=zd7xKzUAAAAJ&hl=en&authuser=1"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-9387-3318"
   uri              :
   bitbucket        :
   codepen          :
@@ -40,7 +39,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-9387-3318"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
