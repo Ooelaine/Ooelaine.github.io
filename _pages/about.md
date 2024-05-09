@@ -113,7 +113,7 @@ redirect_from:
   For the official rules at my institution, please check it through [the official website](https://grs.um.edu.mo/index.php/prospective-students/doctoral-degrees-programmes/).
   - My tips are as follows: 
     * Plan in advance. Read my research website to see if we are a good match. 
-    * Please note that I only take PhDs who will write and defend their thesis in English. 
+    * Please note that I only take PhDs who will write and defend their theses in English. 
     * When sending me application emails, please provide me with the following documents : your CV, a 3-page research proposal (including literature review) and your motivation letter.
 &nbsp;
 - For master theses:
