@@ -19,7 +19,7 @@ redirect_from:
 
 
 
-<span style="font-size:1.5em;">I read and write international law theories and histories, sometimes with a focused interest on China and the wider region. </span> 
+I read and write international law theories and histories, sometimes with a focused interest on China and the wider region.
 
 
   
@@ -40,7 +40,7 @@ Currently, I hold an assistant professorship at the University of Macao. I am al
 
 <div class='paper-box-text' markdown="1">
 
-[**China’s New Multilateralism for Global Health Governance**]([https://www.cambridge.org/core/journals/asian-journal-of-comparative-law/article/chinas-new-global-health-governance/A6172980DD079BF65017145B96D073E9])
+[**China’s New Multilateralism for Global Health Governance**](https://www.cambridge.org/core/journals/asian-journal-of-comparative-law/article/chinas-new-global-health-governance/A6172980DD079BF65017145B96D073E9)
 
 [**Locating TWAIL Scholarship in China**]([https://www.cambridge.org/core/journals/asian-journal-of-international-law/article/locating-twail-scholarship-in-china/404669226588E97228C9026414DEDDC4]) 
 - Second Prize of the Asian Society of International Law Young Scholar Prize
