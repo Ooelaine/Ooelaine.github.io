@@ -40,6 +40,7 @@ redirect_from:
 
 
 # Educations
+&nbsp;
 - Ph.D in International Law, Geneva Graduate Institute (IHEID)
 - LL.M. in International Law, Geneva Graduate Institute
 - MPhil in International Law, China University of Political Science and Law            
@@ -53,7 +54,7 @@ redirect_from:
 # Publications 
 
 <div class='paper-box-text' markdown="1">
-
+&nbsp;
 [**China’s New Multilateralism for Global Health Governance**](https://www.cambridge.org/core/journals/asian-journal-of-comparative-law/article/chinas-new-global-health-governance/A6172980DD079BF65017145B96D073E9)
 
 [**Locating TWAIL Scholarship in China**](https://www.cambridge.org/core/journals/asian-journal-of-international-law/article/locating-twail-scholarship-in-china/404669226588E97228C9026414DEDDC4) 
@@ -75,6 +76,7 @@ redirect_from:
 
 
 # Awards
+&nbsp;
 - Second Prize of the Asian Society of International Law Young Scholar Prize, on the Paper of ‘Locating TWAIL Scholarship in China’, 2023  
 -	Winner of the Young Scholars Writing Competition jointly organised by the Harvard Journal of International Law and the Yale Journal of International Law, on the paper of ‘China, a Disqualified Influencer of International Legal Order’, 2020  
 -	O’Melveny & Myers LLP Scholarship Award, Linklaters LLP Scholarship Award, 2016  
@@ -89,6 +91,7 @@ redirect_from:
 
 
 # Teaching
+&nbsp;
 -	International law theories, public international law, international economic law, investment arbitration, human rights, legal pluralism, law and society
 -	International law in Asia, Asian business law, transnational law, international law and development
 -	Chinese civil law, Chinese property law
@@ -100,16 +103,24 @@ redirect_from:
 
 
 # Thesis supervision
+&nbsp;
 For PhD application:
   I often receive emails from students asking if I could supervise and support their PhD work. 
   For the official rules at my institution, please check it through [the official website](https://grs.um.edu.mo/index.php/prospective-students/doctoral-degrees-programmes/)
+&nbsp;
   My tips are as follows: 
+  &nbsp;
     Plan in advance. Read my research website to see if we are a good match. 
+    &nbsp;
     Please note that I only take PhDs who will write and defend their thesis in English. 
+    &nbsp;
     When sending me application emails, please provide me with the following documents : your CV, a 3-page research proposal (including literature review) and your motivation letter.
+&nbsp;
 For master theses:
   Please come to my classes and discuss with me in person before sending me emails. 
+  &nbsp;
   I believe in-person exchanges will be more effective. 
+  &nbsp;
   Before choosing me as your thesis supervisor, please read my website to see if we are a good match.
 
 &nbsp; 
