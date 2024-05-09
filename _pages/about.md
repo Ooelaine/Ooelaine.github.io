@@ -117,9 +117,8 @@ redirect_from:
     * When sending me application emails, please provide me with the following documents : your CV, a 3-page research proposal (including literature review) and your motivation letter.
 &nbsp;
 - For master theses:
-  Please come to my classes and discuss with me in person before sending me emails. 
-  I believe in-person exchanges will be more effective. 
-  Before choosing me as your thesis supervisor, please read my website to see if we are a good match.
+  I will supervise students on topics on 'public international law', 'international investment law', 'law and development', 'critical legal theories', and 'international law and history'. 
+  I welcome students to come to my classes and have in-person exchanges.
 
 &nbsp; 
 &nbsp; 
