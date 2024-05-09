@@ -94,6 +94,10 @@ redirect_from:
 -	Chinese civil law, Chinese property law
 -	Research methodology and legal writing
 
+&nbsp; 
+&nbsp; 
+&nbsp;
+
 
 # Thesis supervision
 For PhD application:
@@ -107,6 +111,10 @@ For master theses:
   Please come to my classes and discuss with me in person before sending me emails. 
   I believe in-person exchanges will be more effective. 
   Before choosing me as your thesis supervisor, please read my website to see if we are a good match.
+
+&nbsp; 
+&nbsp; 
+&nbsp;
 
 # Paintings
 
