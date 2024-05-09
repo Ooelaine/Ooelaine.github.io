@@ -20,7 +20,7 @@ redirect_from:
 
 
 ## I read and write international law theories and histories, sometimes with a focused interest on China and the wider region.
-</br>
+
 </br>
 </br>  
 
@@ -34,11 +34,12 @@ redirect_from:
 </br>
 </br>
 
-#  Educations
+# Educations
 - Ph.D in International Law, Geneva Graduate Institute (IHEID)
 - LL.M. in International Law, Geneva Graduate Institute
 - MPhil in International Law, China University of Political Science and Law            
 - LL.B, China Hohai University     
+
 </br>
 </br>
   
