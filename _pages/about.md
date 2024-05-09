@@ -52,22 +52,22 @@ redirect_from:
 
   
 # Publications 
-
-<div class='paper-box-text' markdown="1">
 &nbsp;
-[**China’s New Multilateralism for Global Health Governance**](https://www.cambridge.org/core/journals/asian-journal-of-comparative-law/article/chinas-new-global-health-governance/A6172980DD079BF65017145B96D073E9)
+<div class='paper-box-text' markdown="1">
 
-[**Locating TWAIL Scholarship in China**](https://www.cambridge.org/core/journals/asian-journal-of-international-law/article/locating-twail-scholarship-in-china/404669226588E97228C9026414DEDDC4) 
+- [**China’s New Multilateralism for Global Health Governance**](https://www.cambridge.org/core/journals/asian-journal-of-comparative-law/article/chinas-new-global-health-governance/A6172980DD079BF65017145B96D073E9)
 
-[**The Origins and Operation of the Gap-filling Function of the GPL**](https://academic.oup.com/jids/article/13/4/560/6656548)
+- [**Locating TWAIL Scholarship in China**](https://www.cambridge.org/core/journals/asian-journal-of-international-law/article/locating-twail-scholarship-in-china/404669226588E97228C9026414DEDDC4) 
 
-[**A Critical Reflection on the Gap-filling Function of the GPL**](https://www.elgaronline.com/view/journals/cilj/11/1/article-p96.xml)
+- [**The Origins and Operation of the Gap-filling Function of the GPL**](https://academic.oup.com/jids/article/13/4/560/6656548)
 
-[**The Dissociation of Chinese International Law Scholars from TWAIL**](https://twailr.com/twail-review/issue-03-2022/yilin-wang-the-dissociation-of-chinese-international-law-scholars-from-twail/#:~:text=Despite%20historical%20affinity%20and%20instrumental,Chinese%20approach%20to%20international%20law.)
+- [**A Critical Reflection on the Gap-filling Function of the GPL**](https://www.elgaronline.com/view/journals/cilj/11/1/article-p96.xml)
 
-[**Review of ‘Jens David Ohlin, Election Interference: International Law and the Future of Democracy'**](https://academic.oup.com/chinesejil/article/21/2/401/6566257)
+- [**The Dissociation of Chinese International Law Scholars from TWAIL**](https://twailr.com/twail-review/issue-03-2022/yilin-wang-the-dissociation-of-chinese-international-law-scholars-from-twail/#:~:text=Despite%20historical%20affinity%20and%20instrumental,Chinese%20approach%20to%20international%20law.)
 
-[**The Fight between Interpretation and Modification: A Critique of Sanum v Laos**](https://academic.oup.com/icsidreview/article/35/1-2/236/6032230)
+- [**Review of ‘Jens David Ohlin, Election Interference: International Law and the Future of Democracy'**](https://academic.oup.com/chinesejil/article/21/2/401/6566257)
+
+- [**The Fight between Interpretation and Modification: A Critique of Sanum v Laos**](https://academic.oup.com/icsidreview/article/35/1-2/236/6032230)
 
 &nbsp; 
 &nbsp; 
@@ -104,19 +104,19 @@ redirect_from:
 
 # Thesis supervision
 &nbsp;
-For PhD application:
+- For PhD application:
   I often receive emails from students asking if I could supervise and support their PhD work. 
   For the official rules at my institution, please check it through [the official website](https://grs.um.edu.mo/index.php/prospective-students/doctoral-degrees-programmes/).
 &nbsp;
-  My tips are as follows: 
+  - My tips are as follows: 
   &nbsp;
-    Plan in advance. Read my research website to see if we are a good match. 
+    * Plan in advance. Read my research website to see if we are a good match. 
     &nbsp;
-    Please note that I only take PhDs who will write and defend their thesis in English. 
+    * Please note that I only take PhDs who will write and defend their thesis in English. 
     &nbsp;
-    When sending me application emails, please provide me with the following documents : your CV, a 3-page research proposal (including literature review) and your motivation letter.
+    * When sending me application emails, please provide me with the following documents : your CV, a 3-page research proposal (including literature review) and your motivation letter.
 &nbsp;
-For master theses:
+- For master theses:
   Please come to my classes and discuss with me in person before sending me emails. 
   &nbsp;
   I believe in-person exchanges will be more effective. 
