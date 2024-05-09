@@ -106,7 +106,7 @@ redirect_from:
 &nbsp;
 For PhD application:
   I often receive emails from students asking if I could supervise and support their PhD work. 
-  For the official rules at my institution, please check it through [the official website](https://grs.um.edu.mo/index.php/prospective-students/doctoral-degrees-programmes/)
+  For the official rules at my institution, please check it through [the official website](https://grs.um.edu.mo/index.php/prospective-students/doctoral-degrees-programmes/).
 &nbsp;
   My tips are as follows: 
   &nbsp;
