@@ -19,22 +19,28 @@ redirect_from:
 
 
 
-I read and write international law theories and histories, sometimes with a focused interest on China and the wider region.
+## I read and write international law theories and histories, sometimes with a focused interest on China and the wider region.
+</br>
+</br>
+</br>  
 
+## My research sits at the intersection between public international law and development. It has progressed from a particular interest in international economic law through an engagement with treaty interpretation and discourse analysis, to a broader concern with the history and theory of international law through a socio-legal lens, critically redescribing concepts of sovereignty and non-intervention. My doctoral dissertation on the principle of non-intervention led me to delve into developmental intervention, which shapes my current research emphasis on international law and development, particularly with regard to China and Asia.
 
-  
-My research sits at the intersection between public international law and development. It has progressed from a particular interest in international economic law through an engagement with treaty interpretation and discourse analysis, to a broader concern with the history and theory of international law through a socio-legal lens, critically redescribing concepts of sovereignty and non-intervention. My doctoral dissertation on the principle of non-intervention led me to delve into developmental intervention, which shapes my current research emphasis on international law and development, particularly with regard to China and Asia.
+</br>
+</br>
 
+## Currently, I hold an assistant professorship at the University of Macao. I am also a member to the Laureate Research Programme 'Global Corporations and International Law' under the auspices of Professor Sundhya Pahuja, and a research associate to the Oxford-ERC project 'China, Law and Development' led by Professor Matthew Erie. Before joining Macao, I was an awardee of the Swiss National Foundation's post-doctoral mobility research grant. My research topic is 'China, International Development and the Principle of Non-intervention since 1949'. 
 
-Currently, I hold an assistant professorship at the University of Macao. I am also a member to the Laureate Research Programme 'Global Corporations and International Law' under the auspices of Professor Sundhya Pahuja, and a research associate to the Oxford-ERC project 'China, Law and Development' led by Professor Matthew Erie. Before joining Macao, I was an awardee of the Swiss National Foundation's post-doctoral mobility research grant. My research topic is 'China, International Development and the Principle of Non-intervention since 1949'. 
+</br>
+</br>
 
-  
 #  Educations
 - Ph.D in International Law, Geneva Graduate Institute (IHEID)
 - LL.M. in International Law, Geneva Graduate Institute
 - MPhil in International Law, China University of Political Science and Law            
 - LL.B, China Hohai University     
-
+</br>
+</br>
   
 # Selected Publications 
 
@@ -53,7 +59,8 @@ Currently, I hold an assistant professorship at the University of Macao. I am al
 [**Review of ‘Jens David Ohlin, Election Interference: International Law and the Future of Democracy'**](https://academic.oup.com/chinesejil/article/21/2/401/6566257)
 
 [**The Fight between Interpretation and Modification: A Critique of Sanum v Laos**](https://academic.oup.com/icsidreview/article/35/1-2/236/6032230)
-
+</br>
+</br>
 
 # Awards
 - Second Prize of the Asian Society of International Law Young Scholar Prize, on the Paper of ‘Locating TWAIL Scholarship in China’, 2023
