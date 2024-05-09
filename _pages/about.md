@@ -39,7 +39,7 @@ redirect_from:
 </br>
 </br>
   
-# Selected Publications 
+# Publications 
 
 <div class='paper-box-text' markdown="1">
 
