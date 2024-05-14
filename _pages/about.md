@@ -25,7 +25,7 @@ redirect_from:
 &nbsp; 
 &nbsp;
 
-## I read and write international law theories and histories, sometimes with a focused interest on China and the wider region.
+## I read and write international law theory and history, sometimes with a focused interest on China and the wider region.
 &nbsp; 
 &nbsp; 
 &nbsp;
