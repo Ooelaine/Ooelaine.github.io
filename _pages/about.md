@@ -126,6 +126,6 @@ redirect_from:
 
 # Paintings
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Watercolour</div><img src='images/IMG_5528.HEIC' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Watercolour</div><img src='images/IMG_4078.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
